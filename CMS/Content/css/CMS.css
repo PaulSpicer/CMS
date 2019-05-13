@@ -1,0 +1,26 @@
+﻿img {
+    max-height: 120px;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.tableHeading {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+form {
+    font-weight: bold;
+}
+
+#backText {
+    margin-top:20px;
+}
+
+#ModFormContainer {
+    margin: 20px;
+}

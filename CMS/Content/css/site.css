@@ -1,0 +1,134 @@
+﻿.menuBar {
+    display: none;
+}
+
+@media screen and (min-width: 64em) {
+    .menuMobile {
+        display: none;
+    }
+    .menuBar {
+        display: block;
+    }
+}
+
+#bannerimg {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+nav {
+    background-color: #e7e8e9;
+}
+
+.navblock {
+    padding-bottom: 20px;
+}
+
+.searchbar {
+    float: right;
+    right: 0px;
+}
+
+a {
+    color: #555554;
+    font-weight: 600;
+
+}
+
+#searchButton {
+    width: 40px;
+    height: 100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.specialOffersContainer {
+    background-color: rgba(229, 230, 231, 1);
+}
+
+.sectionImage {
+    width: 100%;
+    height: auto;
+}
+
+#specialOfferHeading {
+    text-align: center;
+}
+
+.specialOfferText {
+    background-color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.specialOfferTextBottom {
+    background-color: white;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.menuMobile {
+    text-align: ;
+    text-align: right;
+}
+
+h1 {
+    color: dimgray;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+specialOfferContainer h1 {
+    text-align: center;
+}
+
+.productHeading {
+    text-align: center;
+}
+
+.productImage {
+    text-align: center;
+}
+
+.productCategoryText {
+    text-align: center;
+}
+
+.button {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #008542
+}
+
+#specialOffersButton {
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer {
+    margin-top: 100px;
+    background-color: rgba(187, 189, 191, 1);
+    ;
+    color: white;
+}
+
+#footerAddress {
+    padding-top: 30px;
+}
+
+#footerLinks {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#footerTelephone {
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+#cmslink {
+    text-align: center;
+    font-size: 30px;
+}
